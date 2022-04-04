@@ -1,0 +1,3 @@
+1002	Dan Foo	18
+300		Mary Green	50
+5678	Mary	34
